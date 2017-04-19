@@ -9,11 +9,13 @@ import java.util.Scanner;
 
 public class Solution {
     public static void main(String[] args) throws Exception {
-        String name="", money="", time="";
-        Scanner scn = new Scanner(System.in);
-        name = scn.nextLine();
-        money = scn.nextLine();
-        time = scn.nextLine();
-        System.out.println(name + " получает " + money + " через " + time +" лет.");//напишите тут ваш код
+        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+        String strWitchNumber1 = bufferedReader.readLine();
+        String strWitchNumber2 = bufferedReader.readLine();
+        int number1Count = Integer.parseInt(strWitchNumber1);
+        int number2Count = Integer.parseInt(strWitchNumber2);
+        String strPeopleName = bufferedReader.readLine();
+        System.out.println(strPeopleName + "получает" + number1Count + "через" + number2Count + "лет");
+        //напишите тут ваш код
     }
 }
