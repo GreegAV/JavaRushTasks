@@ -4,7 +4,8 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Scanner;
+
+
 /* 
 Играем в Jолушку
 1. Введи с клавиатуры 20 чисел, сохрани их в список и рассортируй по трём другим спискам:
