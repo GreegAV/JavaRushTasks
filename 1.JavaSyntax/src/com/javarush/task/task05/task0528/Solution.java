@@ -16,6 +16,6 @@ import com.sun.org.apache.xpath.internal.SourceTree;
 
 public class Solution {
     public static void main(String[] args) {
-        System.out.println("16 04 2017");//напишите тут ваш код
+        System.out.println("09 07 2017");//напишите тут ваш код
     }
 }
