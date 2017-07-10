@@ -22,12 +22,19 @@ import java.util.ArrayList;
 public class Solution {
     public static void main(String[] args) throws Exception {
         ArrayList<String> list = new ArrayList<String>();
+        // можно захардкодить считерив. Хорошо, что элементов немного.
         list.add("мама");
-        list.add("именно");
+     //   list.add("именно");
         list.add("мыла");
-        list.add("именно");
+     //   list.add("именно");
         list.add("раму");
-        list.add("именно");
+    //    list.add("именно");
+
+        // а можно пройтись по всему списку, добавляя поэлементно на позицию последняя - слово - .
+        for (int i = 0; i <list.size()-i ; i++) {
+            list.add(list.size()-i-i, "именно");
+        }
+
         for (int i = 0; i <list.size() ; i++) {
             System.out.println(list.get(i));
         }

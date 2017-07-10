@@ -23,15 +23,16 @@ public class Solution {
     public static void main(String[] args) throws IOException {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
 
-        int maximum=0;
-        int minimum=0;
 
         int[] mas = new int[20];
         for (int i = 0; i < 20; i++) {
             mas[i]=Integer.parseInt(reader.readLine());
         }
 
-        for (int i = 0; i < 20; i++) {
+        int maximum=mas[0];
+        int minimum=mas[0];
+
+        for (int i = 1; i < 20; i++) {
             if (mas[i] > maximum) maximum = mas[i];
             if (mas[i] < minimum) minimum = mas[i];
         }

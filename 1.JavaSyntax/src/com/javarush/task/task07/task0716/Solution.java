@@ -49,8 +49,12 @@ public class Solution {
 
     public static ArrayList<String> fix(ArrayList<String> list) {
         for (int i = 0; i  < list.size(); i++) {
-            if (list.get(i).contains("л") | list.get(i).contains("р")){
-                if (list.get(i).contains("л") & list.get(i).contains("р")){
+
+            if (list.get(i).contains("л") | list.get(i).contains("р"))
+            {
+                if (list.get(i).contains("л") & list.get(i).contains("р"))
+                {
+                    //do nothing
                 }else if(list.get(i).contains("л")){
                     list.add(i,list.get(i));
                     i++;
