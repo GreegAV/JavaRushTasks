@@ -1,0 +1,73 @@
+2018-01-29 16:48:24 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+
+2018-01-29 16:48:24 INFO  ApacheHttpClient.login(209) - Ожидание ответа сервера.
+2018-01-29 16:48:24 INFO  ApacheHttpClient.login(209) - Ожидание ответа сервера.
+2018-01-29 16:48:24 INFO  ApacheHttpClient.login(213) - responseCode = 200
+2018-01-29 16:48:24 INFO  ApacheHttpClient.login(244) - JSESSIONID=7FAEFCE8119939048B53DB66F7D18ADE
+2018-01-29 16:48:25 INFO  ApacheHttpClient.refreshUserInfo(272) - responseCode = 200
+2018-01-29 16:48:25 INFO  ApacheHttpClient.refreshUserInfo(278) - Информация о пользователе получена.
+2018-01-29 16:48:25 ERROR GAService.getProxyLoginFromHttpConfigurable(371) - Ошибка получения логина прокси из HttpConfigurable.
+2018-01-29 16:48:25 INFO  ApacheHttpClient.startGA(32) - GAService запущен.
+2018-01-29 16:48:25 WARN  JavaRushUtil.isProjectStructureCorrect(318) - Структура проекта невалидная.
+2018-01-29 16:48:36 INFO  ApacheHttpClient.getWebResourceAsStream(420) - responseCode = 200
+2018-01-29 16:48:36 WARN  JavaRushUtil.isProjectStructureCorrect(318) - Структура проекта невалидная.
+2018-01-29 16:48:45 INFO  ApacheHttpClient.getWebResourceAsStream(420) - responseCode = 200
+2018-01-29 16:48:48 INFO  JavaRushTasksProjectComponent.projectClosing(157) - ---------- Project JavaRushTasks closed ----------
+
+2018-01-29 16:48:48 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+
+2018-01-29 16:48:48 INFO  ApacheHttpClient.refreshUserInfo(272) - responseCode = 200
+2018-01-29 16:48:48 INFO  ApacheHttpClient.refreshUserInfo(278) - Информация о пользователе получена.
+2018-01-29 16:48:48 ERROR GAService.getProxyLoginFromHttpConfigurable(371) - Ошибка получения логина прокси из HttpConfigurable.
+2018-01-29 16:48:48 INFO  ApacheHttpClient.startGA(32) - GAService запущен.
+2018-01-29 16:48:48 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2018-01-29 16:49:55 INFO  ApacheHttpClient.getWebResourceAsStream(420) - responseCode = 200
+2018-01-29 16:49:55 INFO  ApacheHttpClient.getFilteredTasks(307) - responseCode = 200
+2018-01-29 16:50:00 INFO  ApacheHttpClient.getFilteredTasks(307) - responseCode = 200
+2018-01-29 16:50:15 INFO  ApacheHttpClient.getTaskTemplateInfo(324) - responseCode = 200
+2018-01-29 16:50:15 INFO  ApacheHttpClient.testConnection(178) - responseCode = 200
+2018-01-29 16:50:15 INFO  ApacheHttpClient.testConnection(185) - result = true
+2018-01-29 16:50:15 INFO  ApacheHttpClient.testConnection(178) - responseCode = 200
+2018-01-29 16:50:15 INFO  ApacheHttpClient.testConnection(185) - result = true
+2018-01-29 16:50:16 INFO  ApacheHttpClient.getWebResourceAsStream(420) - responseCode = 200
+2018-01-29 16:50:49 INFO  ApacheHttpClient.sendEvent(450) - responseCode = 200
+2018-01-29 16:50:49 INFO  ApacheHttpClient.sendEvent(450) - responseCode = 200
+2018-01-29 16:51:28 INFO  JavaRushTasksProjectComponent.projectClosing(157) - ---------- Project JavaRushTasks closed ----------
+
+2018-01-29 16:51:50 INFO  JavaRushTasksProjectComponent.projectOpened(68) - ---------- Project JavaRushTasks opened ----------
+
+2018-01-29 16:51:50 INFO  ApacheHttpClient.createAsyncHttpClient(125) - Выбрано 1 прокси.
+2018-01-29 16:51:50 ERROR ApacheHttpClient.getProxyLoginFromHttpConfigurable(106) - Ошибка во время получения логина прокси из HttpConfigurable.
+2018-01-29 16:51:50 INFO  ApacheHttpClient.<init>(85) - ApacheHttpClient проинстанциирован успешно.
+2018-01-29 16:51:50 INFO  ApacheHttpClient.testConnection(178) - responseCode = 200
+2018-01-29 16:51:50 INFO  ApacheHttpClient.testConnection(185) - result = true
+2018-01-29 16:51:50 INFO  ApacheHttpClient.login(209) - Ожидание ответа сервера.
+2018-01-29 16:51:51 INFO  ApacheHttpClient.login(213) - responseCode = 200
+2018-01-29 16:51:51 INFO  ApacheHttpClient.login(244) - JSESSIONID=F9EE0747120E6AB0CD13FACDCACC10B8
+2018-01-29 16:51:51 INFO  ApacheHttpClient.refreshUserInfo(272) - responseCode = 200
+2018-01-29 16:51:51 INFO  ApacheHttpClient.refreshUserInfo(278) - Информация о пользователе получена.
+2018-01-29 16:51:51 ERROR GAService.getProxyLoginFromHttpConfigurable(371) - Ошибка получения логина прокси из HttpConfigurable.
+2018-01-29 16:51:51 INFO  ApacheHttpClient.startGA(32) - GAService запущен.
+2018-01-29 16:51:51 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2018-01-29 16:51:54 INFO  ApacheHttpClient.testConnection(178) - responseCode = 200
+2018-01-29 16:51:54 INFO  ApacheHttpClient.testConnection(185) - result = true
+2018-01-29 16:51:54 INFO  ApacheHttpClient.testConnection(178) - responseCode = 200
+2018-01-29 16:51:54 INFO  ApacheHttpClient.testConnection(185) - result = true
+2018-01-29 16:51:55 INFO  ApacheHttpClient.getWebResourceAsStream(420) - responseCode = 200
+2018-01-29 16:52:00 INFO  ApacheHttpClient.testConnection(178) - responseCode = 200
+2018-01-29 16:52:00 INFO  ApacheHttpClient.testConnection(185) - result = true
+2018-01-29 16:52:02 INFO  ApacheHttpClient.testConnection(178) - responseCode = 200
+2018-01-29 16:52:02 INFO  ApacheHttpClient.testConnection(185) - result = true
+2018-01-29 16:52:02 INFO  ApacheHttpClient.testConnection(178) - responseCode = 200
+2018-01-29 16:52:02 INFO  ApacheHttpClient.testConnection(185) - result = true
+2018-01-29 16:52:44 INFO  ApacheHttpClient.getWebResourceAsStream(420) - responseCode = 200
+2018-01-29 16:52:44 INFO  ApacheHttpClient.getWebResourceAsStream(420) - responseCode = 200
+2018-01-29 16:52:44 INFO  ApacheHttpClient.getTask(405) - responseCode = 200
+2018-01-29 16:52:46 INFO  ApacheHttpClient.completed(27) - responseCode = 200
+2018-01-29 16:52:46 INFO  ApacheHttpClient.getTask(405) - responseCode = 200
+2018-01-29 16:52:51 INFO  ApacheHttpClient.sendEvent(450) - responseCode = 200
+2018-01-29 16:52:51 INFO  ApacheHttpClient.sendEvent(450) - responseCode = 200
+2018-01-29 16:53:28 INFO  JavaRushTasksProjectComponent.projectClosing(157) - ---------- Project JavaRushTasks closed ----------
+
+2018-01-29 16:53:28 INFO  ApacheHttpClient.getTask(405) - responseCode = 200
+2018-01-29 16:53:28 INFO  ApacheHttpClient.getTask(405) - responseCode = 200
