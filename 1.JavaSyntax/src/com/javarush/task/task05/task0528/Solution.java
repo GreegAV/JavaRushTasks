@@ -12,7 +12,6 @@ package com.javarush.task.task05.task0528;
 5. Вся дата должна быть выведена в одной строке.
 */
 
-import com.sun.org.apache.xpath.internal.SourceTree;
 
 public class Solution {
     public static void main(String[] args) {
