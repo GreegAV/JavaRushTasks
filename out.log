@@ -1422,3 +1422,41 @@ java.lang.NullPointerException
 2019-02-07 14:06:04 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
 2019-02-07 14:06:04 INFO  ApacheHttpClient.testConnection(203) - result = true
 2019-02-07 14:06:07 INFO  ApacheHttpClient.getWebResourceAsStream(492) - responseCode = 200
+2019-02-07 14:06:16 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-07 14:06:16 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-07 14:06:20 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-07 14:06:20 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-07 14:06:52 INFO  ApacheHttpClient.sendEvent(525) - responseCode = 200
+2019-02-07 14:07:52 INFO  ApacheHttpClient.sendEvent(525) - responseCode = 200
+2019-02-07 14:08:52 INFO  ApacheHttpClient.sendEvent(525) - responseCode = 200
+2019-02-07 14:09:00 INFO  JavaRushTasksProjectComponent.projectClosing(166) - ---------- Project JavaRushTasks closed ----------
+
+2019-02-07 14:09:01 INFO  ApacheHttpClient.getTask(477) - responseCode = 200
+2019-02-07 14:10:53 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Project JavaRushTasks opened ----------
+2019-02-07 14:10:53 INFO  JavaRushTasksProjectComponent.projectOpened(70) - ---------- Version 3.25 ----------
+
+2019-02-07 14:10:53 INFO  ApacheHttpClient.createAsyncHttpClient(130) - Выбрано 1 прокси. Тип : DIRECT
+2019-02-07 14:10:53 INFO  ApacheHttpClient.<init>(88) - ApacheHttpClient проинстанциирован успешно.
+2019-02-07 14:10:54 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-07 14:10:54 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-07 14:10:55 INFO  ApacheHttpClient.login(233) - Ожидание ответа сервера.
+2019-02-07 14:10:55 INFO  ApacheHttpClient.login(233) - Ожидание ответа сервера.
+2019-02-07 14:10:55 INFO  ApacheHttpClient.login(233) - Ожидание ответа сервера.
+2019-02-07 14:10:55 INFO  ApacheHttpClient.login(237) - responseCode = 200
+2019-02-07 14:10:55 INFO  ApacheHttpClient.login(268) - JSESSIONID OK
+2019-02-07 14:10:56 INFO  ApacheHttpClient.refreshUserInfo(296) - responseCode = 200
+2019-02-07 14:10:56 INFO  ApacheHttpClient.refreshUserInfo(302) - Информация о пользователе получена.
+2019-02-07 14:10:56 INFO  ApacheHttpClient.startGA(33) - GAService запущен.
+2019-02-07 14:10:56 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2019-02-07 14:11:07 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-07 14:11:07 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-07 14:11:09 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-07 14:11:09 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-07 14:11:12 INFO  ApacheHttpClient.getWebResourceAsStream(492) - responseCode = 200
+2019-02-07 14:11:19 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-07 14:11:19 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-07 14:11:24 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-07 14:11:24 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-07 14:11:28 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-07 14:11:28 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-07 14:11:56 INFO  ApacheHttpClient.sendEvent(525) - responseCode = 200
