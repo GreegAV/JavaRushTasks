@@ -1190,3 +1190,16 @@ java.lang.Throwable: Write-unsafe context! Model changes are allowed from write-
 2019-02-07 18:19:54 INFO  ApacheHttpClient.getTask(477) - responseCode = 200
 2019-02-07 18:19:58 INFO  ApacheHttpClient.sendEvent(525) - responseCode = 200
 2019-02-07 18:20:58 INFO  ApacheHttpClient.sendEvent(525) - responseCode = 200
+2019-02-07 18:21:58 INFO  ApacheHttpClient.sendEvent(525) - responseCode = 200
+2019-02-07 18:22:58 INFO  ApacheHttpClient.sendEvent(525) - responseCode = 200
+2019-02-07 18:23:58 INFO  ApacheHttpClient.sendEvent(525) - responseCode = 200
+2019-02-07 18:24:58 INFO  ApacheHttpClient.sendEvent(525) - responseCode = 200
+2019-02-07 18:25:58 INFO  ApacheHttpClient.sendEvent(525) - responseCode = 200
+2019-02-07 18:26:58 INFO  ApacheHttpClient.sendEvent(525) - responseCode = 200
+2019-02-07 18:27:58 INFO  ApacheHttpClient.sendEvent(525) - responseCode = 200
+2019-02-07 18:28:58 INFO  ApacheHttpClient.sendEvent(525) - responseCode = 200
+2019-02-07 18:29:58 INFO  ApacheHttpClient.sendEvent(525) - responseCode = 200
+2019-02-07 18:30:58 INFO  ApacheHttpClient.sendEvent(525) - responseCode = 200
+2019-02-07 18:31:58 INFO  ApacheHttpClient.sendEvent(525) - responseCode = 200
+2019-02-07 18:32:58 INFO  ApacheHttpClient.sendEvent(525) - responseCode = 200
+2019-02-07 18:33:58 INFO  ApacheHttpClient.sendEvent(525) - responseCode = 200
