@@ -84,3 +84,265 @@
 2019-02-08 17:24:36 INFO  ApacheHttpClient.testConnection(203) - result = true
 2019-02-08 17:25:15 INFO  ApacheHttpClient.sendEvent(525) - responseCode = 200
 2019-02-08 17:26:15 INFO  ApacheHttpClient.sendEvent(525) - responseCode = 200
+2019-02-08 17:27:15 INFO  ApacheHttpClient.sendEvent(525) - responseCode = 200
+2019-02-08 17:28:15 INFO  ApacheHttpClient.sendEvent(525) - responseCode = 200
+2019-02-08 17:29:15 INFO  ApacheHttpClient.sendEvent(525) - responseCode = 200
+2019-02-08 17:30:15 INFO  ApacheHttpClient.sendEvent(525) - responseCode = 200
+2019-02-08 17:30:24 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-08 17:30:24 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-08 17:30:32 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-08 17:30:32 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-08 17:31:17 WARN  JavaRushUtil.isProjectStructureCorrect(350) - Структура проекта невалидная.
+2019-02-08 17:32:15 WARN  JavaRushUtil.isProjectStructureCorrect(350) - Структура проекта невалидная.
+2019-02-08 17:33:15 WARN  JavaRushUtil.isProjectStructureCorrect(350) - Структура проекта невалидная.
+2019-02-08 17:33:25 INFO  JavaRushTasksProjectComponent.projectClosing(166) - ---------- Project JavaRushTasks closed ----------
+
+2019-02-08 17:33:25 INFO  ApacheHttpClient.getTask(477) - responseCode = 200
+2019-02-08 17:33:25 INFO  ApacheHttpClient.getTask(477) - responseCode = 200
+2019-02-08 17:33:25 INFO  ApacheHttpClient.getTask(477) - responseCode = 200
+2019-02-08 17:33:57 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Project JavaRushTasks opened ----------
+2019-02-08 17:33:57 INFO  JavaRushTasksProjectComponent.projectOpened(70) - ---------- Version 3.25 ----------
+
+2019-02-08 17:33:57 INFO  ApacheHttpClient.createAsyncHttpClient(130) - Выбрано 1 прокси. Тип : DIRECT
+2019-02-08 17:33:57 INFO  ApacheHttpClient.<init>(88) - ApacheHttpClient проинстанциирован успешно.
+2019-02-08 17:33:58 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-08 17:33:58 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-08 17:33:59 INFO  ApacheHttpClient.login(233) - Ожидание ответа сервера.
+2019-02-08 17:33:59 INFO  ApacheHttpClient.login(237) - responseCode = 200
+2019-02-08 17:33:59 INFO  ApacheHttpClient.login(268) - JSESSIONID OK
+2019-02-08 17:33:59 INFO  ApacheHttpClient.refreshUserInfo(296) - responseCode = 200
+2019-02-08 17:33:59 INFO  ApacheHttpClient.refreshUserInfo(302) - Информация о пользователе получена.
+2019-02-08 17:33:59 INFO  ApacheHttpClient.startGA(33) - GAService запущен.
+2019-02-08 17:33:59 WARN  JavaRushUtil.isProjectStructureCorrect(350) - Структура проекта невалидная.
+2019-02-08 17:34:09 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-08 17:34:09 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-08 17:34:11 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-08 17:34:11 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-08 17:34:13 INFO  ApacheHttpClient.getWebResourceAsStream(492) - responseCode = 200
+2019-02-08 17:34:22 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-08 17:34:22 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-08 17:34:24 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-08 17:34:24 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-08 17:34:48 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-08 17:34:48 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-08 17:34:59 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-08 17:34:59 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-08 17:35:48 INFO  JavaRushTasksProjectComponent.projectClosing(166) - ---------- Project JavaRushTasks closed ----------
+
+2019-02-08 17:35:48 INFO  ApacheHttpClient.getTask(477) - responseCode = 200
+2019-02-08 17:36:50 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Project JavaRushTasks opened ----------
+2019-02-08 17:36:50 INFO  JavaRushTasksProjectComponent.projectOpened(70) - ---------- Version 3.25 ----------
+
+2019-02-08 17:36:50 INFO  ApacheHttpClient.createAsyncHttpClient(130) - Выбрано 1 прокси. Тип : DIRECT
+2019-02-08 17:36:50 INFO  ApacheHttpClient.<init>(88) - ApacheHttpClient проинстанциирован успешно.
+2019-02-08 17:36:50 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-08 17:36:50 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-08 17:36:51 INFO  ApacheHttpClient.login(233) - Ожидание ответа сервера.
+2019-02-08 17:36:51 INFO  ApacheHttpClient.login(237) - responseCode = 200
+2019-02-08 17:36:51 INFO  ApacheHttpClient.login(268) - JSESSIONID OK
+2019-02-08 17:36:51 INFO  ApacheHttpClient.refreshUserInfo(296) - responseCode = 200
+2019-02-08 17:36:51 INFO  ApacheHttpClient.refreshUserInfo(302) - Информация о пользователе получена.
+2019-02-08 17:36:51 INFO  ApacheHttpClient.startGA(33) - GAService запущен.
+2019-02-08 17:36:51 WARN  JavaRushUtil.isProjectStructureCorrect(350) - Структура проекта невалидная.
+2019-02-08 17:37:01 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-08 17:37:01 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-08 17:37:02 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-08 17:37:02 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-08 17:37:04 INFO  ApacheHttpClient.getWebResourceAsStream(492) - responseCode = 200
+2019-02-08 17:37:12 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-08 17:37:12 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-08 17:37:16 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-08 17:37:16 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-08 17:37:18 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-08 17:37:18 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-08 17:41:14 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-08 17:41:14 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-08 17:41:27 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-08 17:41:27 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-08 17:41:45 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-08 17:41:45 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-08 17:42:02 INFO  ApacheHttpClient.getWebResourceAsStream(492) - responseCode = 200
+2019-02-08 17:42:02 WARN  JavaRushUtil.isProjectStructureCorrect(350) - Структура проекта невалидная.
+2019-02-08 17:42:53 INFO  ApacheHttpClient.getWebResourceAsStream(492) - responseCode = 200
+2019-02-08 17:42:53 WARN  JavaRushUtil.isProjectStructureCorrect(350) - Структура проекта невалидная.
+2019-02-08 17:44:15 INFO  JavaRushTasksProjectComponent.projectClosing(166) - ---------- Project JavaRushTasks closed ----------
+
+2019-02-08 17:44:15 INFO  ApacheHttpClient.getTask(477) - responseCode = 200
+2019-02-08 17:45:39 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Project JavaRushTasks opened ----------
+2019-02-08 17:45:39 INFO  JavaRushTasksProjectComponent.projectOpened(70) - ---------- Version 3.25 ----------
+
+2019-02-08 17:45:39 INFO  ApacheHttpClient.createAsyncHttpClient(130) - Выбрано 1 прокси. Тип : DIRECT
+2019-02-08 17:45:39 INFO  ApacheHttpClient.<init>(88) - ApacheHttpClient проинстанциирован успешно.
+2019-02-08 17:45:40 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-08 17:45:40 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-08 17:45:41 INFO  ApacheHttpClient.login(233) - Ожидание ответа сервера.
+2019-02-08 17:45:41 INFO  ApacheHttpClient.login(237) - responseCode = 200
+2019-02-08 17:45:41 INFO  ApacheHttpClient.login(268) - JSESSIONID OK
+2019-02-08 17:45:41 INFO  ApacheHttpClient.refreshUserInfo(296) - responseCode = 200
+2019-02-08 17:45:41 INFO  ApacheHttpClient.refreshUserInfo(302) - Информация о пользователе получена.
+2019-02-08 17:45:41 INFO  ApacheHttpClient.startGA(33) - GAService запущен.
+2019-02-08 17:45:41 WARN  JavaRushUtil.isProjectStructureCorrect(350) - Структура проекта невалидная.
+2019-02-08 17:45:52 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-08 17:45:52 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-08 17:45:54 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-08 17:45:54 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-08 17:45:57 INFO  ApacheHttpClient.getWebResourceAsStream(492) - responseCode = 200
+2019-02-08 17:46:12 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-08 17:46:12 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-08 17:46:21 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-08 17:46:21 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-08 17:46:24 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-08 17:46:24 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-08 17:46:30 INFO  JavaRushTasksProjectComponent.projectClosing(166) - ---------- Project JavaRushTasks closed ----------
+
+2019-02-08 17:46:30 INFO  ApacheHttpClient.getTask(477) - responseCode = 200
+2019-02-08 17:48:05 INFO  JavaRushTasksProjectComponent.projectOpened(69) - ---------- Project JavaRushTasks opened ----------
+2019-02-08 17:48:05 INFO  JavaRushTasksProjectComponent.projectOpened(70) - ---------- Version 3.25 ----------
+
+2019-02-08 17:48:05 INFO  ApacheHttpClient.createAsyncHttpClient(130) - Выбрано 1 прокси. Тип : DIRECT
+2019-02-08 17:48:05 INFO  ApacheHttpClient.<init>(88) - ApacheHttpClient проинстанциирован успешно.
+2019-02-08 17:48:06 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-08 17:48:06 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-08 17:48:06 INFO  ApacheHttpClient.login(233) - Ожидание ответа сервера.
+2019-02-08 17:48:07 INFO  ApacheHttpClient.login(237) - responseCode = 200
+2019-02-08 17:48:07 INFO  ApacheHttpClient.login(268) - JSESSIONID OK
+2019-02-08 17:48:07 INFO  ApacheHttpClient.refreshUserInfo(296) - responseCode = 200
+2019-02-08 17:48:07 INFO  ApacheHttpClient.refreshUserInfo(302) - Информация о пользователе получена.
+2019-02-08 17:48:07 INFO  ApacheHttpClient.startGA(33) - GAService запущен.
+2019-02-08 17:48:07 INFO  AbstractRestApiClient.startService(70) - EventsService запущен.
+2019-02-08 17:48:40 INFO  ApacheHttpClient.getWebResourceAsStream(492) - responseCode = 200
+2019-02-08 17:48:40 INFO  ApacheHttpClient.getFilteredTasks(329) - responseCode = 200
+2019-02-08 17:48:42 INFO  ApacheHttpClient.getTaskTemplateInfo(346) - responseCode = 200
+2019-02-08 17:48:45 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-08 17:48:45 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-08 17:48:47 INFO  ApacheHttpClient.testConnection(188) - responseCode = 200
+2019-02-08 17:48:47 INFO  ApacheHttpClient.testConnection(203) - result = true
+2019-02-08 17:48:47 ERROR NoSwingUnderWriteAction.error(124) - AWT events are not allowed inside write action: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=sun.awt.GlobalCursorManager$NativeUpdater@ed63ee2,notifier=null,catchExceptions=false,when=1549640922525] on sun.awt.windows.WToolkit@70d4698
+java.lang.Throwable: AWT events are not allowed inside write action: java.awt.event.InvocationEvent[INVOCATION_DEFAULT,runnable=sun.awt.GlobalCursorManager$NativeUpdater@ed63ee2,notifier=null,catchExceptions=false,when=1549640922525] on sun.awt.windows.WToolkit@70d4698
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:134)
+	at com.intellij.openapi.application.impl.NoSwingUnderWriteAction.lambda$watchForEvents$0(NoSwingUnderWriteAction.java:36)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:374)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.WaitDispatchSupport$2.run(WaitDispatchSupport.java:188)
+	at java.awt.WaitDispatchSupport$4.run(WaitDispatchSupport.java:235)
+	at java.awt.WaitDispatchSupport$4.run(WaitDispatchSupport.java:233)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.awt.WaitDispatchSupport.enter(WaitDispatchSupport.java:233)
+	at javafx.embed.swing.JFXPanel.initFx(JFXPanel.java:239)
+	at javafx.embed.swing.JFXPanel.<init>(JFXPanel.java:264)
+	at com.javarush.plugin.panel.ConditionPanel.getConditionInnerPanel(ConditionPanel.java:64)
+	at com.javarush.plugin.panel.ConditionPanel.<init>(ConditionPanel.java:41)
+	at com.javarush.plugin.TestEditor.<init>(TestEditor.java:48)
+	at com.javarush.plugin.TestEditorProvider.createEditor(TestEditorProvider.java:66)
+	at com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl.lambda$openFileImpl4$8(FileEditorManagerImpl.java:856)
+	at com.intellij.openapi.application.impl.ApplicationImpl.invokeAndWait(ApplicationImpl.java:670)
+	at com.intellij.openapi.application.impl.ApplicationImpl.invokeAndWait(ApplicationImpl.java:683)
+	at com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl.openFileImpl4(FileEditorManagerImpl.java:961)
+	at com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl.openFileImpl3(FileEditorManagerImpl.java:781)
+	at com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl.lambda$openFileImpl2$4(FileEditorManagerImpl.java:763)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:220)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:178)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:168)
+	at com.intellij.openapi.command.impl.CoreCommandProcessor.executeCommand(CoreCommandProcessor.java:154)
+	at com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl.openFileImpl2(FileEditorManagerImpl.java:763)
+	at com.intellij.openapi.fileEditor.impl.FileEditorManagerImpl.openFileWithProviders(FileEditorManagerImpl.java:694)
+	at com.intellij.openapi.fileEditor.ex.FileEditorManagerEx.openFile(FileEditorManagerEx.java:139)
+	at com.javarush.plugin.TaskInfoSelectorMouseListener$WriteTaskTemplateAction.run(TaskInfoSelectorMouseListener.java:496)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:1057)
+	at com.javarush.plugin.TaskInfoSelectorMouseListener.selectTask(TaskInfoSelectorMouseListener.java:130)
+	at com.javarush.plugin.TaskInfoSelectorMouseListener.mouseClicked(TaskInfoSelectorMouseListener.java:88)
+	at java.awt.AWTEventMulticaster.mouseClicked(AWTEventMulticaster.java:270)
+	at java.awt.Component.processMouseEvent(Component.java:6551)
+	at javax.swing.JComponent.processMouseEvent(JComponent.java:3325)
+	at java.awt.Component.processEvent(Component.java:6313)
+	at java.awt.Container.processEvent(Container.java:2237)
+	at java.awt.Component.dispatchEventImpl(Component.java:4903)
+	at java.awt.Container.dispatchEventImpl(Container.java:2295)
+	at java.awt.Component.dispatchEvent(Component.java:4725)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4889)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4535)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4467)
+	at java.awt.Container.dispatchEventImpl(Container.java:2281)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4725)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:764)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:737)
+	at java.awt.EventQueue$4.run(EventQueue.java:735)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:734)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:719)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:664)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:363)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:109)
+	at java.awt.WaitDispatchSupport$2.run(WaitDispatchSupport.java:190)
+	at java.awt.WaitDispatchSupport$4.run(WaitDispatchSupport.java:235)
+	at java.awt.WaitDispatchSupport$4.run(WaitDispatchSupport.java:233)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.awt.WaitDispatchSupport.enter(WaitDispatchSupport.java:233)
+	at java.awt.Dialog.show(Dialog.java:1077)
+	at com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$MyDialog.show(DialogWrapperPeerImpl.java:698)
+	at com.intellij.openapi.ui.impl.DialogWrapperPeerImpl.show(DialogWrapperPeerImpl.java:430)
+	at com.intellij.openapi.ui.DialogWrapper.invokeShow(DialogWrapper.java:1681)
+	at com.intellij.openapi.ui.DialogWrapper.show(DialogWrapper.java:1630)
+	at com.javarush.plugin.button.SelectTaskButton.actionPerformed(SelectTaskButton.java:24)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil$1.run(ActionUtil.java:258)
+	at com.intellij.openapi.actionSystem.ex.ActionUtil.performActionDumbAware(ActionUtil.java:275)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.actionPerformed(ActionButton.java:184)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.performAction(ActionButton.java:148)
+	at com.intellij.openapi.actionSystem.impl.ActionButton.processMouseEvent(ActionButton.java:410)
+	at java.awt.Component.processEvent(Component.java:6313)
+	at java.awt.Container.processEvent(Container.java:2237)
+	at java.awt.Component.dispatchEventImpl(Component.java:4903)
+	at java.awt.Container.dispatchEventImpl(Container.java:2295)
+	at java.awt.Component.dispatchEvent(Component.java:4725)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4889)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4526)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4467)
+	at java.awt.Container.dispatchEventImpl(Container.java:2281)
+	at java.awt.Window.dispatchEventImpl(Window.java:2746)
+	at java.awt.Component.dispatchEvent(Component.java:4725)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:764)
+	at java.awt.EventQueue.access$500(EventQueue.java:98)
+	at java.awt.EventQueue$3.run(EventQueue.java:715)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:90)
+	at java.awt.EventQueue$4.run(EventQueue.java:737)
+	at java.awt.EventQueue$4.run(EventQueue.java:735)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:80)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:734)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:719)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:664)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:363)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+2019-02-08 17:48:47 ERROR NoSwingUnderWriteAction.logErrorHeader(129) - IntelliJ IDEA 2018.3.4  Build #IC-183.5429.30
+2019-02-08 17:48:47 ERROR NoSwingUnderWriteAction.logErrorHeader(135) - JDK: 1.8.0_152-release; VM: OpenJDK 64-Bit Server VM; Vendor: JetBrains s.r.o
+2019-02-08 17:48:47 ERROR NoSwingUnderWriteAction.logErrorHeader(138) - OS: Windows 10
+2019-02-08 17:48:47 ERROR NoSwingUnderWriteAction.logErrorHeader(142) - Plugin to blame: JavaRushHomeWork version: 3.25
+2019-02-08 17:48:47 ERROR NoSwingUnderWriteAction.logErrorHeader(149) - Last Action: TaskChooser
+2019-02-08 17:48:47 ERROR NoSwingUnderWriteAction.logErrorHeader(156) - Current Command: 
+2019-02-08 17:48:50 INFO  ApacheHttpClient.getWebResourceAsStream(492) - responseCode = 200
+2019-02-08 17:49:07 INFO  ApacheHttpClient.sendEvent(525) - responseCode = 200
+2019-02-08 17:50:07 INFO  ApacheHttpClient.sendEvent(525) - responseCode = 405
+2019-02-08 17:50:42 WARN  ValidateButton.isServerAvailable(74) - Сервер Javarush недоступен. Подождите немного, перезапустите IntelliJ IDEA и повторите попытку.
+2019-02-08 17:51:07 INFO  ApacheHttpClient.sendEvent(525) - responseCode = 405
