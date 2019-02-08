@@ -2,6 +2,14 @@ package com.javarush.task.task12.task1233;
 
 /* 
 Изоморфы наступают
+Написать метод, который возвращает минимальное число в массиве и его позицию (индекс).
+
+
+Требования:
+1. Класс Solution должен содержать класс Pair.
+2. Класс Solution должен содержать два метода.
+3. Класс Solution должен содержать метод getMinimumAndIndex().
+4. Метод getMinimumAndIndex() должен возвращать минимальное число в массиве и его позицию (индекс).
 */
 
 public class Solution {
@@ -20,8 +28,15 @@ public class Solution {
         }
 
         //напишите тут ваш код
-
-        return new Pair<Integer, Integer>(0, 0);
+        int min = array[0];
+        int pos = 0;
+        for (int i = 0; i < array.length; i++) {
+            if (array[i] < min) {
+                min = array[i];
+                pos = i;
+            }
+        }
+        return new Pair<Integer, Integer>(min, pos);
     }
 
 
