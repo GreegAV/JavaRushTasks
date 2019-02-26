@@ -25,7 +25,7 @@ public class Solution {
 
     public static ArrayList<String>[] createList() {
         //напишите тут ваш код
-ArrayList<String>[] list = new ArrayList[2];
+        ArrayList<String>[] list = new ArrayList[2];
         ArrayList<String> podList = new ArrayList<>();
         podList.add("asdasd");
         podList.add("DDDDDDD");
